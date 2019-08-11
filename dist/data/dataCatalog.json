@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "ЖК-телевизор Samsung UE32N5000AU",
+    "gallery": "https://avatars.mds.yandex.net/get-mpic/1244413/img_id6922622469270169228.jpeg/",
+    "price": "500$",
+    "fullText": "ЖК-телевизор, 1080p Full HD\nдиагональ 31.5\" (80 см)\nHDMI x2, USB, DVB-T2\nкартинка в картинке",
+    "status": "top"
+  },
+  {
+    "id": 2,
+    "title": "ЖК-телевизор Philips 50PUT6023",
+    "gallery": "https://avatars.mds.yandex.net/get-mpic/1042102/img_id7766070938744571261.jpeg/",
+    "price": "300$",
+    "fullText": "ЖК-телевизор, 4K UHD\nдиагональ 50\" (127 см)\nHDMI x3, USB x2, DVB-T2",
+    "status": "sale"
+  },
+  {
+    "id": 3,
+    "title": "ЖК-телевизор Sony KD-65XF9005",
+    "gallery": "https://avatars.mds.yandex.net/get-mpic/199079/img_id1492029493328503242.jpeg/",
+    "price": "400$",
+    "fullText": "ЖК-телевизор, 4K UHD\nдиагональ 64.5\" (164 см)\nSmart TV (Android), Wi-Fi\nHDMI x4, USB x3, DVB-T2\nподдержка HDR\nтип подсветки: Direct LED",
+    "status": "new"
+  },
+  {
+    "id": 4,
+    "title": "ЖК-телевизор Samsung UE43NU7090U",
+    "gallery": "https://avatars.mds.yandex.net/get-mpic/1565610/img_id8540719967208869734.jpeg/",
+    "price": "600$",
+    "fullText": "ЖК-телевизор, 4K UHD\nдиагональ 43\" (109 см)\nSmart TV, Wi-Fi\nHDMI x2, USB, DVB-T2\nподдержка HDR\nтип подсветки: Edge LED",
+    "status": "top"
+  },
+  {
+    "id": 5,
+    "title": "ЖК-телевизор Samsung UE55NU7090U",
+    "gallery": "https://avatars.mds.yandex.net/get-mpic/1521939/img_id288604536753978635.jpeg/",
+    "price": "500$",
+    "fullText": "ЖК-телевизор, 4K UHD\nдиагональ 54.6\" (139 см)\nSmart TV (Tizen), Wi-Fi\nHDMI x2, USB, DVB-T2\nподдержка HDR\nтип подсветки: Edge LED",
+    "status": "sale"
+  },
+  {
+    "id": 6,
+    "title": "ЖК-телевизор LG 32LJ510U",
+    "gallery": "https://avatars.mds.yandex.net/get-mpic/96484/img_id5679057491430261444/",
+    "price": "700$",
+    "fullText": "ЖК-телевизор, 720p HD\nдиагональ 32\" (81 см)\nHDMI x2, USB, DVB-T2\nтип подсветки: Direct LED",
+    "status": "top"
+  },
+  {
+    "id": 7,
+    "title": "ЖК-телевизор Xiaomi Mi TV 4A 43 Pro",
+    "gallery": "https://avatars.mds.yandex.net/get-mpic/1767151/img_id2630650329566932406.jpeg/",
+    "price": "900$",
+    "fullText": "ЖК-телевизор, 1080p Full HD\nдиагональ 42.5\" (108 см)\nSmart TV, Wi-Fi\nHDMI x3, USB x3\nтип подсветки: Direct LED",
+    "status": "new"
+  },
+  {
+    "id": 8,
+    "title": "ЖК-телевизор LG 49UK6390",
+    "gallery": "https://avatars.mds.yandex.net/get-mpic/1382936/img_id4496617010389886667.jpeg/",
+    "price": "1100$",
+    "fullText": "ЖК-телевизор, 4K UHD\nдиагональ 48.5\" (123 см), TFT IPS\nSmart TV (webOS), Wi-Fi\nHDMI x3, USB x2, DVB-T2\nподдержка HDR\nтип подсветки: Direct LED",
+    "status": "sale"
+  },
+  {
+    "id": 9,
+    "title": "ЖК-телевизор Xiaomi Mi TV 4C 55\n",
+    "gallery": "https://avatars.mds.yandex.net/get-mpic/331398/img_id5414473813811065329.jpeg/",
+    "price": "1000$",
+    "fullText": "ЖК-телевизор, 4K UHD\nдиагональ 54.6\" (139 см)\nSmart TV, Wi-Fi\nHDMI x3, USB x2\nподдержка HDR\nтип подсветки: Edge LED",
+    "status": "new"
+  },
+  {
+    "id": 10,
+    "title": "ЖК-телевизор LG 43UK6300",
+    "gallery": "https://avatars.mds.yandex.net/get-mpic/1244413/img_id1857646445973165455.jpeg/",
+    "price": "1100$",
+    "fullText": "ЖК-телевизор, 4K UHD\nдиагональ 42.5\" (108 см), TFT IPS\nSmart TV (webOS), Wi-Fi\nHDMI x3, USB x2, DVB-T2\nподдержка HDR\nтип подсветки: Direct LED",
+    "status": "top"
+  },
+  {
+    "id": 11,
+    "title": "ЖК-телевизор LG 43LK5400",
+    "gallery": "https://avatars.mds.yandex.net/get-mpic/901948/img_id4046900603527361505.jpeg/",
+    "price": "100$",
+    "fullText": "ЖК-телевизор, 1080p Full HD\nдиагональ 42.5\" (108 см)\nSmart TV (webOS), Wi-Fi\nHDMI x2, USB, DVB-T2\nподдержка HDR\nтип подсветки: Direct LED",
+    "status": "top"
+  }
+]
