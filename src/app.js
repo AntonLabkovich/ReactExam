@@ -26,7 +26,7 @@ class App extends Component {
             <BrowserRouter>
                 <Header/>
                 <Switch>
-                    <Route exact path="/" component={Main}/>
+                    <Route exact path="/ReactExam/" component={Main}/>
                     <Route exact path="/dist/" component={Main}/>
                     <Route exact path="/dist/catalog/" component={Catalog}/>
                     <Route path="/dist/catalog/:id" component={Product}/>
