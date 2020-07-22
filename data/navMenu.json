@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Главная",
+    "url" : "/dist/"
+  },
+  {
+    "name": "Каталог",
+    "url" : "/dist/catalog"
+  },
+  {
+    "name": "Корзина",
+    "url" : "/dist/basket"
+  }
+]
