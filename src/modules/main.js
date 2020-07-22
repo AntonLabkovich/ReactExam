@@ -20,9 +20,6 @@ class Main extends Component {
         return (
             <div className={'container'}>
                 <main>
-                    <h1>true internet-shop</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolor doloremque enim harum
-                        labore modi recusandae sit temporibus ullam voluptate.</p>
 
                     <div className={'slider'}>
                         <p>TOP PRODUCTS</p>
