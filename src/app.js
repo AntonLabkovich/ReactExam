@@ -40,7 +40,7 @@ class App extends Component {
 
 
     componentDidMount() {
-        fetch('/data/dataCatalog.json')
+        fetch('https://antonlabkovich.github.io/ReactExam/data/dataCatalog.json')
             .then(data => data.json())
             .then(items => {
                 this.props.dispatch({
@@ -57,7 +57,7 @@ class App extends Component {
         let userTrueCookie = '';
         let authUser = document.cookie.split(';');
         Array.isArray(this.props.store.Auth) || this.props.store.Auth.length === 0 ?
-            fetch('/data/auth.json')
+            fetch('https://antonlabkovich.github.io/ReactExam/data/auth.json')
                 .then(data => data.json())
                 .then(items => {
                     for (let i = 0; i < authUser.length; i++) {

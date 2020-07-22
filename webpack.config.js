@@ -25,7 +25,8 @@ module.exports = {
     plugins:[
         new HTMLPlugin({
             filename: 'index.html',
-            template: './src/index.html'
+            template: './src/index.html',
+            chunksSortMode: 'dependency'
         }),
         new MiniCssExtractPlugin({
             filename:'form.css.css'
