@@ -29,7 +29,7 @@ module.exports = {
             chunksSortMode: 'dependency'
         }),
         new MiniCssExtractPlugin({
-            filename:'form.css.css'
+            filename:'main.css'
         })
     ],
     module:{
